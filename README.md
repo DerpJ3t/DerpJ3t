@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jet , currently a high schooler who likes programming
 - 👀 I’m interested in physics , math and others
-- 🌱 I’m currently learning game development , linear algebra
 - 💞️ I’m looking to collaborate on ... (Currently has no plans)
 
 
